@@ -1,0 +1,1 @@
+const text1 = "mashaodong";
