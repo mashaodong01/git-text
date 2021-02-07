@@ -1,1 +1,1 @@
-const text1 = "wangxuezhen";
+const text1 = "bug01";
