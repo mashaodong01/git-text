@@ -1,1 +1,1 @@
-const text1 = "bug01";
+const text1 = "bug01010101";
